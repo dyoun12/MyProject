@@ -23,8 +23,10 @@
 
 <!-- 최근 프로젝트가 상단으로 오게 구성 -->
 
-| Title | Desc | Scale | Link |
-| ----- | ---- | ----- | ---- |
-| DDS | KIS API를 활용한 실시간 주가 체결 데이터 수집 이후 ELK 스택 내 파이프라인을 구성하고 영구 저장될 데이터를 이관| 4명 | [weAreFoodie/DDS](https://github.com/weAreFoodie/DDS) |
-| Analyze-ChatGPT-Reviews-with-SQL | SQL 기본 문법 및 정규표현식을 활용한 학습용 교안 제작과 더불어 문제 풀이를 위한 기본 데이터셋 구성 | 4명 | [miss-match/Analyze-ChatGPT-Reviews-with-SQL](https://github.com/miss-match/Analyze-ChatGPT-Reviews-with-SQL) |
-| Eat_it | MVC 패턴 학습 및 CRUD 기능을 구현한 JDBC 활용 | 4명 | [3kim-gu/Eat_IT](https://github.com/3kim-gu/Eat_IT) |
+| Link | Desc | Scale |
+| ---- | ---- | ----- |
+| [Seollal-TF-TEAM/Search-Stack](https://github.com/Seollal-TF-TEAM/Search-Stack)| AWS EC2 서버 내 docker-compose를 이용한 ELK, EFK stack 구성 및 Spring AOP의 로그 수집, 파이프라인 별 데이터 처리 과정 비교 | 5명 |
+| [weAreFoodie/elk-leaning-in-linux](https://github.com/weAreFoodie/elk-leaning-in-linux)| linux VM 간 NAT-Network를 통한 ElasticSearch, Kibana 연동 과정, Kibana를 이용한 소비내역 데이터 시각화 및 분석 | 4명 |
+| [weAreFoodie/DDS](https://github.com/weAreFoodie/DDS)| KIS API를 활용한 실시간 주가 체결 정보 수집 이후 ELK 스택 내 파이프라인을 구성하고 영구 저장될 데이터를 이관| 4명 |
+| [miss-match/Analyze-ChatGPT-Reviews-with-SQL](https://github.com/miss-match/Analyze-ChatGPT-Reviews-with-SQL) | SQL 기본 문법 및 정규표현식을 활용한 학습용 교안 제작과 더불어 문제 풀이를 위한 기본 데이터셋 구성 | 4명 |
+| [3kim-gu/Eat_IT](https://github.com/3kim-gu/Eat_IT) | MVC 패턴 학습 및 CRUD 기능을 구현한 JDBC 활용 | 4명 |
