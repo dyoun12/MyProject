@@ -25,6 +25,7 @@
 
 | Link | Desc | Scale |
 | ---- | ---- | ----- |
+[ WeAreFoodie/wefifty ](https://github.com/weAreFoodie/wefifty) | servlet, jsp 기반 Java Web 서비스 구현, ajax를 통한 비동기 통신 학습, PR 및 commit.template를 이용한 컨벤션 설정과 작업 경험 | 4명 |
 | [Seollal-TF-TEAM/Search-Stack](https://github.com/Seollal-TF-TEAM/Search-Stack)| AWS EC2 서버 내 docker-compose를 이용한 ELK, EFK stack 구성 및 Spring AOP의 로그 수집, 파이프라인 별 데이터 처리 과정 비교 | 5명 |
 | [weAreFoodie/elk-leaning-in-linux](https://github.com/weAreFoodie/elk-learning-in-linux)| linux VM 간 NAT-Network를 통한 ElasticSearch, Kibana 연동 과정, Kibana를 이용한 소비내역 데이터 시각화 및 분석 | 4명 |
 | [weAreFoodie/DDS](https://github.com/weAreFoodie/DDS)| KIS API를 활용한 실시간 주가 체결 정보 수집 이후 ELK 스택 내 파이프라인을 구성하고 영구 저장될 데이터를 이관| 4명 |
